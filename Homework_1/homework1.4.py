@@ -10,3 +10,4 @@ while value > 0:
         max_number = value % 10
     value = value // 10
 print("Самая большая цифра в числе: ", max_number)
+

@@ -26,3 +26,4 @@ while result_a < result_b:
     count_days += 1
     print(f"{count_days} -й день: {result_a}")
 print(f"Ответ: на {count_days}-й день спортсмен достигнет результата - не менее {result_b} км.")
+

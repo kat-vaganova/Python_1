@@ -24,3 +24,4 @@ elif proceeds < costs:
     print('он составляет: ', financial_results, 'руб.')
 else:
     print("Фирма смогла только покрыть свои издержки.")
+
